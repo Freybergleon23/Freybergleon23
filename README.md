@@ -10,14 +10,15 @@ Oi, sou o Freyberg, sou um programador FRONT END, atualmente estou aprendendo e 
 :e-mail:como entrar em contato comigo: Freybergleonyepez@gmail.com;
 
 :inbox_tray:contate-me:
-<p>
+<br>
+
   <a href="">
-<img src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone5.png"  style="max-width: 22px; width:22px; height:22px;" alt="Icono de Instagram con colores originales del logo" /> 
+<img src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone5.png" style="margin-left:10px; max-width:100%; width:22px; height:22px;" alt="Icono de Instagram con colores originales del logo" /> 
   </a>
   <a href="">
-  <img src="https://cdn-icons-png.flaticon.com/512/3938/3938061.png"  style="max-width: 22px; width:22px; height:22px;" alt="logo" />
+  <img src="https://cdn-icons-png.flaticon.com/512/3938/3938061.png" style="margin-left:10px; max-width:100%; width:22px; height:22px;" alt="logo" />
   </a>
-</p>
+
 
 
 
